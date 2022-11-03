@@ -1,0 +1,15 @@
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.csproj.AssemblyReference.cache
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.AssemblyInfoInputs.cache
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.AssemblyInfo.cs
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.csproj.CoreCompileInputs.cache
+D:\VS REPOS\Algoritms\Algoritms\bin\Debug\net6.0\Algoritms.exe
+D:\VS REPOS\Algoritms\Algoritms\bin\Debug\net6.0\Algoritms.deps.json
+D:\VS REPOS\Algoritms\Algoritms\bin\Debug\net6.0\Algoritms.runtimeconfig.json
+D:\VS REPOS\Algoritms\Algoritms\bin\Debug\net6.0\Algoritms.dll
+D:\VS REPOS\Algoritms\Algoritms\bin\Debug\net6.0\Algoritms.pdb
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.dll
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\refint\Algoritms.dll
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.pdb
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\Algoritms.genruntimeconfig.cache
+D:\VS REPOS\Algoritms\Algoritms\obj\Debug\net6.0\ref\Algoritms.dll
